@@ -1,5 +1,5 @@
 # oauth2-server
-A Simple Example of An OAuth2 Server using MySQL and Express
+A Simple Example of An OAuth2 Server using Node.js, MySQL, and Express
 
 
 ## Installation
